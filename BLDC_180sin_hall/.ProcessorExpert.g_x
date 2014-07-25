@@ -1,0 +1,83 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="2">
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Generated_Code/freemaster_defcfg.h" FileDate="2014-07-01, 17:12:20" FileAge="1404205940325" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/freemaster_protocol.c" FileDate="2014-07-01, 17:12:20" FileAge="1404205940329" FileType="45637" CompNumb="13" />
+      <File Name="Project_Settings/Debugger/MC56F84789.mem" FileDate="2014-07-01, 10:34:56" FileAge="1404182096812" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2014-07-01, 10:34:56" FileAge="1404182096843" FileType="45637" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2014-07-01, 10:34:56" FileAge="1404182096858" FileType="45637" />
+      <File Name="Generated_Code/freemaster_cfggen.h" FileDate="2014-07-01, 17:12:20" FileAge="1404205940392" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/freemaster_56F8xxx.h" FileDate="2014-07-01, 17:12:20" FileAge="1404205940319" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2014-07-01, 10:34:56" FileAge="1404182096858" FileType="45637" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2014-07-01, 10:34:56" FileAge="1404182096827" FileType="45637" />
+      <File Name="Generated_Code/E7.h" FileDate="2014-07-15, 16:45:43" FileAge="1405413943643" FileType="45637" CompNumb="71" />
+      <File Name="Generated_Code/freemaster_serial.c" FileDate="2014-07-01, 17:12:20" FileAge="1404205940341" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/freemaster_56F8xxx.c" FileDate="2014-07-01, 17:12:20" FileAge="1404205940321" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/E7.c" FileDate="2014-07-15, 16:45:43" FileAge="1405413943641" FileType="45637" CompNumb="71" />
+      <File Name="Generated_Code/freemaster_appcmd.c" FileDate="2014-07-01, 17:12:20" FileAge="1404205940323" FileType="45637" CompNumb="13" />
+      <File Name="Documentation/doxygen/pex.doxyfile" FileDate="2014-07-01, 10:34:56" FileAge="1404182096683" FileType="45637" CompNumb="2" />
+      <File Name="Documentation/doxygen/pex.css" FileDate="2014-07-01, 10:34:56" FileAge="1404182096045" FileType="16384" CompNumb="2" />
+      <File Name="Project_Settings/Startup_Code/56F83x_init.asm" FileDate="2014-07-01, 10:34:56" FileAge="1404182096369" FileType="16384" CompNumb="2" />
+      <File Name="Documentation/ProcessorExpert_Settings.xml" FileDate="2014-07-22, 17:49:28" FileAge="1406022568454" FileType="3072" />
+      <File Name="Generated_Code/freemaster_sfio.c" FileDate="2014-07-01, 17:12:20" FileAge="1404205940383" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/freemaster_bdm.c" FileDate="2014-07-01, 17:12:20" FileAge="1404205940338" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/F0.h" FileDate="2014-07-16, 16:52:37" FileAge="1405500757587" FileType="45637" CompNumb="84" />
+      <File Name="Generated_Code/freemaster.h" FileDate="2014-07-01, 17:12:20" FileAge="1404205940317" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/F0.c" FileDate="2014-07-16, 16:52:37" FileAge="1405500757583" FileType="45637" CompNumb="84" />
+      <File Name="Documentation/ProcessorExpert_SIGNALS.txt" FileDate="2014-07-22, 17:49:28" FileAge="1406022568346" FileType="3072" />
+      <File Name="Documentation/doxygen/ProcessorExpert.txt" FileDate="2014-07-01, 10:34:56" FileAge="1404182096684" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/freemaster_scope.c" FileDate="2014-07-01, 17:12:20" FileAge="1404205940336" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/freemaster_rec.h" FileDate="2014-07-01, 17:12:20" FileAge="1404205940334" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/Cap2.h" FileDate="2014-07-08, 16:54:12" FileAge="1404809652073" FileType="45637" CompNumb="37" />
+      <File Name="Generated_Code/PWMA.h" FileDate="2014-07-16, 17:57:03" FileAge="1405504623388" FileType="45637" CompNumb="69" />
+      <File Name="Generated_Code/PIT_1ms.h" FileDate="2014-07-16, 17:57:03" FileAge="1405504623368" FileType="45637" CompNumb="75" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2014-07-22, 17:49:28" FileAge="1406022568248" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/freemaster_cfg.h" FileDate="2014-07-01, 17:12:20" FileAge="1404205940394" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/freemaster_rec.c" FileDate="2014-07-01, 17:12:20" FileAge="1404205940333" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/Cap2.c" FileDate="2014-07-08, 16:54:12" FileAge="1404809652077" FileType="45637" CompNumb="37" />
+      <File Name="Documentation/doxygen/RoutingReport.txt" FileDate="2014-07-01, 10:34:56" FileAge="1404182096684" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/PWMA.c" FileDate="2014-07-16, 17:57:03" FileAge="1405504623381" FileType="45637" CompNumb="69" />
+      <File Name="Generated_Code/assert.h" FileDate="2014-07-01, 10:34:56" FileAge="1404182096858" FileType="45637" />
+      <File Name="Generated_Code/FMSTR1.h" FileDate="2014-07-01, 17:12:20" FileAge="1404205940399" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2014-07-22, 17:49:28" FileAge="1406022568262" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/PIT_1ms.c" FileDate="2014-07-16, 17:57:03" FileAge="1405504623422" FileType="45637" CompNumb="75" />
+      <File Name="Generated_Code/freemaster_fastrec.h" FileDate="2014-07-01, 17:12:20" FileAge="1404205940391" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/Cap1.h" FileDate="2014-07-08, 16:54:12" FileAge="1404809652059" FileType="45637" CompNumb="36" />
+      <File Name="Generated_Code/FMSTR1.c" FileDate="2014-07-01, 17:12:20" FileAge="1404205940397" FileType="45637" CompNumb="13" />
+      <File Name="Documentation/ProcessorExpert.txt" FileDate="2014-07-16, 17:54:43" FileAge="1405504483312" FileType="3072" />
+      <File Name="Generated_Code/freemaster_fastrec.c" FileDate="2014-07-01, 17:12:20" FileAge="1404205940389" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/Cap1.c" FileDate="2014-07-08, 16:54:12" FileAge="1404809652068" FileType="45637" CompNumb="36" />
+      <File Name="Generated_Code/F6.h" FileDate="2014-07-15, 16:35:41" FileAge="1405413341950" FileType="45637" CompNumb="70" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2014-07-16, 16:52:37" FileAge="1405500757647" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/INT_RX_REG.h" FileDate="2014-07-01, 17:12:20" FileAge="1404205940406" FileType="45637" CompNumb="15" />
+      <File Name="Generated_Code/F6.c" FileDate="2014-07-15, 16:35:41" FileAge="1405413341948" FileType="45637" CompNumb="70" />
+      <File Name="Generated_Code/CAP0.h" FileDate="1970-01-01, 07:59:59" FileAge="-1" FileType="45637" />
+      <File Name="Generated_Code/freemaster_can.c" FileDate="2014-07-01, 17:12:20" FileAge="1404205940339" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/QSPI0.h" FileDate="2014-07-16, 18:10:21" FileAge="1405505421921" FileType="45637" CompNumb="82" />
+      <File Name="Sources/Events.h" FileDate="2014-07-16, 16:52:37" FileAge="1405500757653" FileType="131328" />
+      <File Name="Generated_Code/INT_RX_REG.c" FileDate="2014-07-01, 17:12:20" FileAge="1404205940405" FileType="45637" CompNumb="15" />
+      <File Name="Generated_Code/CAP0.c" FileDate="1970-01-01, 07:59:59" FileAge="-1" FileType="45637" />
+      <File Name="Generated_Code/freemaster_tsa_table.c" FileDate="2014-07-01, 17:12:20" FileAge="1404205940396" FileType="45637" CompNumb="13" />
+      <File Name="Project_Settings/Linker_Files/FLASH_SDM.cmd" FileDate="2014-07-22, 17:49:28" FileAge="1406022568120" FileType="8" CompNumb="2" />
+      <File Name="Generated_Code/freemaster_private.h" FileDate="2014-07-01, 17:12:20" FileAge="1404205940327" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/QSPI0.c" FileDate="2014-07-16, 18:10:21" FileAge="1405505421915" FileType="45637" CompNumb="82" />
+      <File Name="Sources/Events.c" FileDate="2014-07-16, 18:43:52" FileAge="1405507432184" FileType="131328" />
+      <File Name="Generated_Code/INT_TX_REG.h" FileDate="2014-07-01, 17:12:20" FileAge="1404205940403" FileType="45637" CompNumb="16" />
+      <File Name="Sources/ProcessorExpert.c" FileDate="2014-07-16, 18:59:59" FileAge="1405508399074" FileType="128" />
+      <File Name="Generated_Code/freemaster_tsa.h" FileDate="2014-07-01, 17:12:20" FileAge="1404205940387" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/INT_TX_REG.c" FileDate="2014-07-01, 17:12:20" FileAge="1404205940401" FileType="45637" CompNumb="16" />
+      <File Name="Generated_Code/freemaster_protocol.h" FileDate="2014-07-01, 17:12:20" FileAge="1404205940331" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/freemaster_tsa.c" FileDate="2014-07-01, 17:12:20" FileAge="1404205940385" FileType="45637" CompNumb="13" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>125</CodeGenReference>
+</CodeGenerationInfo>
